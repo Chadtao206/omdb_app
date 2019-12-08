@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/omdb_app/static/css/main.ab483bb0.chunk.css",
+    "main.js": "/omdb_app/static/js/main.9919f056.chunk.js",
+    "main.js.map": "/omdb_app/static/js/main.9919f056.chunk.js.map",
+    "runtime-main.js": "/omdb_app/static/js/runtime-main.829a6bcb.js",
+    "runtime-main.js.map": "/omdb_app/static/js/runtime-main.829a6bcb.js.map",
+    "static/js/2.c723f54c.chunk.js": "/omdb_app/static/js/2.c723f54c.chunk.js",
+    "static/js/2.c723f54c.chunk.js.map": "/omdb_app/static/js/2.c723f54c.chunk.js.map",
+    "index.html": "/omdb_app/index.html",
+    "precache-manifest.dd7b2364f89e6aadba9a490b6ea2a2cc.js": "/omdb_app/precache-manifest.dd7b2364f89e6aadba9a490b6ea2a2cc.js",
+    "service-worker.js": "/omdb_app/service-worker.js",
+    "static/css/main.ab483bb0.chunk.css.map": "/omdb_app/static/css/main.ab483bb0.chunk.css.map",
+    "static/js/2.c723f54c.chunk.js.LICENSE": "/omdb_app/static/js/2.c723f54c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.829a6bcb.js",
+    "static/js/2.c723f54c.chunk.js",
+    "static/css/main.ab483bb0.chunk.css",
+    "static/js/main.9919f056.chunk.js"
+  ]
+}
